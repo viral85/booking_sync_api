@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rental: one
+  start_at: 2018-01-23
+  end_at: 2018-01-23
+  client_email: MyString
+  price: 1
+
+two:
+  rental: two
+  start_at: 2018-01-23
+  end_at: 2018-01-23
+  client_email: MyString
+  price: 1
